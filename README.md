@@ -17,31 +17,31 @@ WEAVE AI is a state-of-the-art, full-stack travel planner and curator that lever
 ### 1. SaaS Landing Page
 Features a premium layout with glowing color meshes, modern split gradients, and a live CSS-coded dashboard mockup showing a trip generation preview.
 <p align="center">
-  <img src="./public/screenshots/homepage.png" alt="SaaS Landing Page Mockup" width="90%" style="border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 10px 30px rgba(0,0,0,0.05);" />
+  <img src="public/screenshots/homepage.png" alt="SaaS Landing Page Mockup" width="90%" />
 </p>
 
 ### 2. Tailored Travel Preferences Form
 Clean, responsive user questionnaire allowing travelers to specify their destination, duration, budget, and group type.
 <p align="center">
-  <img src="./public/screenshots/preferences.png" alt="Preferences Questionnaire Form" width="90%" style="border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 10px 30px rgba(0,0,0,0.05);" />
+  <img src="public/screenshots/preferences.png" alt="Preferences Questionnaire Form" width="90%" />
 </p>
 
 ### 3. Dynamic Itinerary Dashboard (France)
 Renders a curated cityscape banner, live weather data, 3-day weather forecasts, hotel options, and interactive Google Map embeds centered around the geocoded coordinates.
 <p align="center">
-  <img src="./public/screenshots/itinerary_france.png" alt="France Itinerary Dashboard" width="90%" style="border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 10px 30px rgba(0,0,0,0.05);" />
+  <img src="public/screenshots/itinerary_france.png" alt="France Itinerary Dashboard" width="90%" />
 </p>
 
 ### 4. Custom Curated Activity Cards (Paris)
 Renders a responsive list of recommended day-by-day sightseeing destinations. Every card loads high-resolution local photography curated via Unsplash CDN dynamic search fallbacks.
 <p align="center">
-  <img src="./public/screenshots/itinerary_paris_places.png" alt="Sightseeing Destination Cards" width="90%" style="border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 10px 30px rgba(0,0,0,0.05);" />
+  <img src="public/screenshots/itinerary_paris_places.png" alt="Sightseeing Destination Cards" width="90%" />
 </p>
 
 ### 5. Custom Curated Beach Dashboard (Goa)
 Displays Goa's scenic beaches, custom climate icons, and geocoded interactive map layers styled cleanly.
 <p align="center">
-  <img src="./public/screenshots/itinerary_goa.png" alt="Goa Beach Itinerary" width="90%" style="border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 10px 30px rgba(0,0,0,0.05);" />
+  <img src="public/screenshots/itinerary_goa.png" alt="Goa Beach Itinerary" width="90%" />
 </p>
 
 ---
